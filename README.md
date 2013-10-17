@@ -7,7 +7,7 @@
 
 Í upphafi var valið  lið nr 2. í verkefninu. En það var gert því ég nennti ekki að hafa USB lykil (týnist bara). Þar var valið VirtualBox 4.2.18 fyrir Windows. Það tók enga stund að downloada. Því næst var downloadað Ubunta VirtualBox image, það var gert í gegnum síðuna http://virtualboxes.org/images/ubuntu/ skrollaði var lengst niður og valið næst síðasta linkinn sem leiddi svo áfram á síðuna sourceforge.net og þarf hófst downloadið. Það tók um það bil 15 mínutur. Það opnaðist reyndar skjal síðan sem vildi ekki opnast.. En áfram var haldið. Það þurfti að installa forriti sem heitir FinalTorrent til að geta opnað þetta image. En það virkaði síðan ekki. Svo endað var með að leita ofar í listann af link sem innihélt "Download" En nei, virkaði ekki heldur, nokkrar tilraunir til viðbótar voru reyndar. Og eftir ábendingu frá Daníel kennara var farið ofar í listann. Eftir tvö kvöld í rugli fengum við uppgefinn annan link sem gerir tölvuna dual boot. En það er að finna hér: http://www.ubuntu.com/download/desktop/windows-installer , þetta tók örfáar mínutur, tölvan endurræstir og draumar fóru að gerast. Það eina sem þarf að gera þegar startað er tölvunni er að velja á milli Windows 7 eða Ubunta, einfaldara gæti það ekki verið. 
 
-![Mynd af Ubuntu](/home/annakatrin/Myndir/screenshot.png)
+[Mynd af Ubuntu eftir ræsingu](http://i.imgur.com/NQp2Fhy.png)
 
 
 ## 2. Uppsetning á vim && git
