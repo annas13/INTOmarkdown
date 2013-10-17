@@ -44,6 +44,5 @@ Program 5. Texmaker, GNU GPL, Licence = http://www.xm1math.net/texmaker/
 
 ## 5. Unnið með Git (2. hluti)
 
-Verkefnið í heild sinni gekk mjög vel. Það eina sem hægt er að segja að hafi valdið vandræðum var uppsetning á Linux. En þegar við höfðum fengið aðstoð gekk það mjög vel. Okkur fannst Ubuntu mjög flott og skemmtilegt að vinna á því. Við munum báðar nota það meira í komandi tíð. Verkefnið var áhugavert og krefjandi og vakti upp áhuga okkar á að vinna meir með github í framtíðinni.  
+Markdownið gekk vel, reyndar lentum við í smá vandræðum með að upload-a myndinni inná github. En að öðru leiti var þetta vandræðalaust. Verkefnið í heild sinni gekk mjög vel. Það eina sem hægt er að segja að hafi valdið vandræðum var uppsetning á Linux. En þegar við höfðum fengið aðstoð gekk það mjög vel. Okkur fannst Ubuntu mjög flott og skemmtilegt að vinna á því. Við munum báðar nota það meira í komandi tíð. Verkefnið var áhugavert og krefjandi og vakti upp áhuga okkar á að vinna meir með github í framtíðinni.  
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
